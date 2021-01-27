@@ -3,7 +3,7 @@
 
 Inti semua ini:
 
-## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]]
+## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] [![RDP Issues][RDP Issues]](https://github.com/extgfx/Colab-Hacks/issues/labels/Colab%20RDP)
 
 Lu bakal bisa dapetin **Remote Connection** ke Google Colaboratory dan lu bisa pake se enak jidat.
 
@@ -32,3 +32,10 @@ Please note that using Colaboratory for cryptocurrency mining is disallowed enti
 
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
 [License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
+[RDP Issues]:           https://img.shields.io/github/issues/extgfx/Colab-Hacks/Colab%20RDP?label=Issues
+[RDP Notebook]:         https://colab.research.google.com/github/extgfx/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb
+[SSH Issues]:           https://img.shields.io/github/issues/extgfx/Colab-Hacks/Colab%20SSH?label=Issues
+[SSH Notebook]:         https://colab.research.google.com/github/extgfx/Colab-Hacks/blob/master/Colab%20SSH/Colab%20SSH.ipynb
+[Torrent Issues]:       https://img.shields.io/github/issues/extgfx/Colab-Hacks/Torrent%20Downloader?label=Issues
+[Torrent Notebook]:     https://colab.research.google.com/github/extgfx/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb
+[Warning]:              https://img.shields.io/badge/Warning-red
