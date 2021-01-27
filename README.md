@@ -1,8 +1,9 @@
 # Colab Hacks [![Warning][Warning]](#Warning-Not-for-Cryptocurrency-Mining) [![License: MIT][License-Badge]](LICENSE.md)
 
+
 Inti semua ini:
 
-## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] (https://github.com/extgfx/Colab-Hacks/issues/labels/Colab%20RDP)
+## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]]
 
 Lu bakal bisa dapetin **Remote Connection** ke Google Colaboratory dan lu bisa pake se enak jidat.
 
