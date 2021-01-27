@@ -17,7 +17,7 @@ Lu bakal bisa dapetin **Remote Connection** ke Google Colaboratory dan lu bisa p
 ## [Torrent Downloader](Torrent%20Downloader/Torrent%20Downloader.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Torrent Notebook] [![Torrent Issues][Torrent Issues]](https://github.com/extgfx/Colab-Hacks/issues/labels/Torrent%20Downloader)
 Torrent Downloader is **Colab based Torrent Downloader** in which you doesn't need any torrent client only just a google account for downloading and storing downloaded torrents into google drive. It doesn't utilizes your internet for download and for any reason the download remains incomplete then you can resume it in other colab instance. Just Download from your drive if needed.
 
-### **Some Points:**
+### **Poin Penting:**
  - Butuh login Google Drive
  > **Catatan :** Lu bisa download file apapun terus simpen di Google Drive pake command `wget <link>` terus pindah ke folder `/content/drive/My\ Drive/`
 
